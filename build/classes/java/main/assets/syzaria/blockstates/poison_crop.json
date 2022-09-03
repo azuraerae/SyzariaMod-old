@@ -1,0 +1,13 @@
+{
+    "variants":
+    {
+        "age=0": { "model": "syzaria:poison_crop0"},
+        "age=1": { "model": "syzaria:poison_crop1"},
+        "age=2": { "model": "syzaria:poison_crop2"},
+        "age=3": { "model": "syzaria:poison_crop3"},
+        "age=4": { "model": "syzaria:poison_crop4"},
+        "age=5": { "model": "syzaria:poison_crop5"},
+        "age=6": { "model": "syzaria:poison_crop6"},
+        "age=7": { "model": "syzaria:poison_crop7"}
+    }
+}

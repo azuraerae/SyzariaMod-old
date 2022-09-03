@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "syzaria:items/tungstene_shovel"
+    }
+}

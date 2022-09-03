@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Mod
+Implementation-Version: a2.2b1
+Specification-Vendor: lynxian
+Specification-Title: syzaria
+Implementation-Timestamp: 2021-04-12T21:09:14+0200
+Specification-Version: 1
+Implementation-Vendor: lynxian
+

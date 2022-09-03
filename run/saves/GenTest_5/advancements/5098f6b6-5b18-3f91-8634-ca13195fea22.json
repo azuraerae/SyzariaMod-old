@@ -1,0 +1,12 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2021-06-05 21:45:01 +0200",
+      "swampland": "2021-06-05 21:48:19 +0200",
+      "birch_forest": "2021-06-05 21:47:39 +0200",
+      "extreme_hills": "2021-06-05 21:45:34 +0200",
+      "roofed_forest": "2021-06-05 21:48:20 +0200"
+    },
+    "done": false
+  }
+}

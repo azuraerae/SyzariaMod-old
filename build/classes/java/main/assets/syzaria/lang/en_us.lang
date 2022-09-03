@@ -1,0 +1,46 @@
+itemGroup.syza_items_tab=Syzaria Items
+itemGroup.syza_blocks_tab=Syzaria Blocks
+itemGroup.syza_fight_tab=Syzaria Combat Items
+itemGroup.syza_tools_tab=Syzaria Tools
+itemGroup.syza_misc_tab=Syzaria Miscellanous Items
+
+tile.tungstene_block.name=Tungstene Block
+tile.iridium_block.name=Iridium Block
+tile.sapphire_block.name=Sapphire Block
+tile.amethyst_block.name=Amethyst Block
+
+tile.chrome_ore.name=Chrome Ore
+tile.iridium_ore.name=Iridium Ore
+tile.sapphire_ore.name=Sapphire Ore
+tile.amethyst_ore.name=Amethyst Ore
+
+item.tungstene_ingot.name=Tungstene Ingot
+item.iridium_ingot.name=Iridium Ingot
+item.sapphire.name=Sapphire
+item.amethyst_gem.name=Amethyst Gem
+
+item.tungstene_nugget.name=Tungstene Nugget 
+item.iridium_nugget.name=Iridium Nugget
+
+item.tungstene_helmet.name=Tungstene Helmet
+item.tungstene_chestplate.name=Tungstene Chestplate
+item.tungstene_leggings.name=Tungstene Leggings
+item.tungstene_boots.name=Tungstene Boots
+item.iridium_helmet.name=Iridium Helmet
+item.iridium_chestplate.name=Iridium Chestplate
+item.iridium_leggings.name=Iridium Leggings
+item.iridium_boots.name=Iridium Boots
+
+item.tungstene_sword.name=Tungstene Sword
+item.iridium_sword.name=Iridium Sword
+
+item.tungstene_pickaxe.name=Tungstene Pickaxe
+item.tungstene_axe.name=Tungstene Axe
+item.tungstene_shovel.name=Tungstene Shovel
+item.iridium_pickaxe.name=Iridium Pickaxe
+item.iridium_axe.name=Iridium Axe
+item.iridium_shovel=Iridium Shovel
+
+item.speed_berry.name=Speed Berry
+item.heal_berry.name=Heal Berry
+item.poison_berry.name=Poison Berry

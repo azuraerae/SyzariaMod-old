@@ -1,0 +1,16 @@
+[
+{
+  "modid": "syzaria",
+  "name": "Syzaria",
+  "description": "Syzaria extension pour le Syzaria Minecraft Server.",
+  "version": "a2.3bu1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lynxian"],
+  "credits": "HxHunter et racam2005 pour les idées et Lexal et sa team pour les textures",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
