@@ -1,0 +1,13 @@
+{
+  "files.exclude": {
+    "gradle": true,
+    "build": true,
+    ".vscode": true,
+    ".gradle": true,
+    ".gitignore": true,
+    "gradlew": true,
+    "bin": true,
+    "run": true
+  },
+  "java.configuration.updateBuildConfiguration": "automatic"
+}

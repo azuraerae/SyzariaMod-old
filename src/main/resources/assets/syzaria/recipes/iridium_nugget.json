@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "X"
+    ],
+    "key":
+    {
+        "X":
+        {
+            "item": "syzaria:iridium_ingot"
+        }
+    },
+    "result":
+    {
+        "item": "syzaria:iridium_nugget",
+        "count": 9
+    }
+}

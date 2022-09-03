@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "XXX",
+        "XXX",
+        "XXX"
+    ],
+    "key":
+    {
+        "X":
+        {
+            "item": "syzaria:tungstene_ingot"
+        }
+    },
+    "result":
+    {
+        "item": "syzaria:tungstene_block"
+    }
+}
